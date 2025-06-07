@@ -1,0 +1,15 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+div {
+    text-align: center;
+}
+button {
+    background-color: lightblue;
+    color: black;
+}
+h1 {
+    text-align: center;
+}
